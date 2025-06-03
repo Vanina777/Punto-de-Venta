@@ -21,3 +21,9 @@ Clientes · Proveedores · Productos · Ventas · Pedidos · Gastos · Reportes 
 ## ⚙️ Tecnologías
 
 Python · SQLite · Tkinter
+
+### Inicio de sesión
+![Login del sistema](./login.png)
+
+### Pantalla principal
+![Pantalla principal del sistema](./inicio.png)
